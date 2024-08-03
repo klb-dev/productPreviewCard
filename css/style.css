@@ -140,7 +140,7 @@ html {
 @media all and (min-width: 48em) {
     .card {
         flex-direction: row;
-        max-width: 38em;
+        max-width: 50em;
         max-height: 28.125em;
         margin: 0 auto;
     }
