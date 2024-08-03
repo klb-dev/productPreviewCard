@@ -18,6 +18,11 @@ Given the content I applied HTML5 with class names. I created a style guide with
 - Mobile-first
 
 
+## Links
+- [Code](https://github.com/klb-dev/productPreviewCard)
+- [website]()
+
+
 ### What I learned
 
 The learning process was basically me reusing my knowledge of basic CSS and placement. I do projects at least once a day to keep my mind focused on Frontend Development. I use flex for different layouts
@@ -49,9 +54,7 @@ I would like to understand and utilize grid to make the layout even more interac
 [Figma](https://www.figma.com/)
 
 ## Author
-
-**Blue Byrd Developments**
-<img src="./images/BBD-logo.png" alt="Blue Byrd Development logo" width="300px">
+<img src="./images/BBD-logo.png" alt="Blue Byrd Development logo" width="200px">
 <br>
 *Karen Byrd*
 <br>
