@@ -157,6 +157,7 @@ html {
     .card__image-desktop{
         display: block;
         border-radius: 0.75rem 0 0 0.75rem;
+        width: 50%;
     }
 
     .card__title {
