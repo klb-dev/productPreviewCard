@@ -51,7 +51,7 @@ I would like to understand and utilize grid to make the layout even more interac
 ## Author
 
 **Blue Byrd Developments**
-![Blue Byrd Development](./images/BBD-logo.png)
+<img src="./images/BBD-logo.png" alt="Blue Byrd Development logo" width="300px">
 <br>
 *Karen Byrd*
 <br>
